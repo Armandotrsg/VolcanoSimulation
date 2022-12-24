@@ -14,7 +14,7 @@ This repository contains a Matlab project that implements a 2D simulation to cal
 
 ## Installation
 
-To run the code in this repository, you will need to have Matlab R2021 or higher installed. You can then clone the repository and run the scripts in Matlab.
+To run the code in this repository, you will need to have Matlab R2021 or higher installed. You can then clone the repository and run the [SimulacionVolcan.m](./SimulacionVolcan.m) file in Matlab.
 
 ## Contributors
 
